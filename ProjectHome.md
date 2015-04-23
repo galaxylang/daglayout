@@ -1,0 +1,1 @@
+A layout class for JUNG 2.0 that work well with DAGs. The intent is to use algorithms specialized for DAGs (or at least directed graphs), using layering.
